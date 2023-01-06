@@ -15,7 +15,7 @@
 
 <p><strong class="example">Example 2:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2021/04/24/reshape2-grid.jpg" style="width: 453px; height: 173px;">
-<pre><strong>Input:</strong> mat = [[1,2],[3,4]], r = 2, c = 
+<pre><strong>Input:</strong> mat = [[1,2],[3,4]], r = 2, c = 2
 <strong>Output:</strong> [[1,2],[3,4]]
 </pre>
 
